@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">CarApp</string>
+    <string name="car_name">Nama Mobil</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="profile">Profile</string>
+    <string name="name_profile">Rafie Fadhillah Fatroni</string>
+    <string name="email_profile">fieofficial3127@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Toyota Avanza New</item>
+        <item>Toyota Innvova</item>
+        <item>Toyota Fortuner</item>
+        <item>Honda Jazz</item>
+        <item>Honda BR-V</item>
+        <item>Honda Civic</item>
+        <item>Mitsubishi Xpander</item>
+        <item>Mitsubishi Pajero</item>
+        <item>Mitsubishi Outlander</item>
+        <item>Nissan X-Trail</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>All New Avanza 2023 resmi hadir di Indonesia. Setelah lama-lama dinanti para pecinta otomotif, akhirnya generasi baru dari Toyota Avanza resmi diperkenalkan. Menyandang istilah “All New” tentu terdapat banyak sekali perubahan dari generasi sebelumnya. Toyota All New Avanza hadir dengan beberapa pilihan warna yang dapat disesuaikan dengan keinginan Tunas Friend. Warna-warna tersebut antara lain adalah Purplish silver, gray metallic, Black metallic, silver mica metallic dan white.</item>
+        <item>Toyota Kijang Innova hadir dengan dimensi panjang 4.735 mm, lebar 1.830 mm, dan tinggi 1.795 mm, Toyota Innova Venturer memiliki tampilan eksterior yang baru. Dengan mengusung tema cross-over namun, Toyota Kijang Innova Venturer tidak menghilangkan ciri khasnya sebagai mobil MPV.</item>
+        <item>Toyota Fortuner adalah SUV yang kokoh dan kuat. Dikenal dengan kemampuannya di medan off-road, Fortuner juga menawarkan kenyamanan dalam berkendara dan interior yang mewah. Model terbaru sering dilengkapi dengan fitur canggih seperti sistem infotainment yang canggih dan berbagai sistem keamanan.</item>
+        <item>Siapa tak kenal Jazz? Model ini bisa dibilang salah satu mobil yang mempopulerkan segmen hatchback di Indonesia. Diawali dengan kemunculan versi CBU-nya yang memiliki nama Honda Fit. PT Honda Prospect Motor (HPM) sebagai agen pemegang merek mobil Honda di Indonesia tercatat untuk pertama kalinya memasarkan Jazz pada tahun 2003. Jazz generasi pertama itu memiliki kode bodi GD3. Sejak saat itu kiprah Jazz di Indonesia terus berlanjut dengan dengan kemunculan generasi-generasi berikutnya, yaitu GE8 dan GK5 sebagai model yang terakhir dipasarkan di Indonesia.</item>
+        <item>Honda BRV tersedia dalam pilihan mesin Bensin di Indonesia SUV baru dari Honda hadir dalam 10 varian. Bicara soal spesifikasi mesin Honda BRV, ini ditenagai dua pilihan mesin Bensin berkapasitas 1497 cc. BRV tersedia dengan transmisi Manual and CVT tergantung variannya. BRV adalah SUV 7 seater dengan panjang 4456 mm, lebar 1735 mm, wheelbase 2662 mm.</item>
+        <item>Honda Civic tersedia dalam pilihan mesin Bensin di Indonesia Sedan baru dari Honda hadir dalam 2 varian. Bicara soal spesifikasi mesin Honda Civic, ini ditenagai dua pilihan mesin Bensin berkapasitas 1498 cc. Civic tersedia dengan transmisi CVT tergantung variannya. Civic adalah Sedan 5 seater dengan panjang 4648 mm, lebar 2076 mm, wheelbase 2700 mm.</item>
+        <item>Mitsubishi Xpander tersedia dalam pilihan mesin Bensin di Indonesia MPV baru dari Mitsubishi hadir dalam 14 varian. Bicara soal spesifikasi mesin Mitsubishi Xpander, ini ditenagai dua pilihan mesin Bensin berkapasitas 1499 cc. Xpander tersedia dengan transmisi Manual and CVT tergantung variannya. serta ground clearance 225 mm.</item>
+        <item>Mitsubishi Pajero Sport tersedia dalam pilihan mesin Diesel di Indonesia SUV baru dari Mitsubishi hadir dalam 12 varian. Bicara soal spesifikasi mesin Mitsubishi Pajero Sport, ini ditenagai dua pilihan mesin Diesel berkapasitas 2442 cc. Pajero Sport tersedia dengan transmisi Manual and Otomatis tergantung variannya. serta ground clearance 218 mm.</item>
+        <item>Mitsubishi Outlander Sport cukup nyaman mengakomodasi 5 orang penumpang sekaligus. Bahkan, penumpang belakang pun diberikan armrest yang dilengkapi dengan tempat minuman. Sementara, desain konsol tengah dan dashboard tampak cukup sederhana namun mudah dipahami dan diakses. Lingkar kemudi palang 3 dengan kontrol audio tentu memberikan kenyamanan berkendara tersendiri bagi pengemudi. Ditambah lagi, panel instrumen yang diberikan iluminasi cahaya merah dan dilengkapi MID memberikan kemudahan baca bagi pengemudi. Kabin mobil ini juga cukup luas dan dapat ditingkatkan dengan melipat kursi baris ke-2.</item>
+        <item>Nissan X-Trail ini, Nissan menyematkan headlamp auto On/Off berteknologi LED Daytime Running Light yang didesain mengusung gaya modern dan berkarakter gagah yang mampu memberikan penerangan secara maksimal, terutama ketika dikendarai di waktu malam hari di saat jalanan minim penerangan lampu kota. Bahkan, lampu sein pun juga terpasang manis pada bagian depannya dengan mengandalkan lampu LED sehingga menampilkan kesan SUV premium yang berkarakter. Selain itu, pada bumper depannya pun Nissan X Trail juga tidak kalah elok dengan disematkannya bumper khas SUV yang berkarakter tinggi dan gagah ditambah Foglamp yang siap menerangi dari kabut tebal yang mengganggu perjalanan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/avanza</item>
+        <item>@drawable/innova</item>
+        <item>@drawable/fortuner</item>
+        <item>@drawable/jazz</item>
+        <item>@drawable/brv</item>
+        <item>@drawable/civic</item>
+        <item>@drawable/xpander</item>
+        <item>@drawable/pajero</item>
+        <item>@drawable/outlander</item>
+        <item>@drawable/xtrail</item>
+    </integer-array>
+</resources>
